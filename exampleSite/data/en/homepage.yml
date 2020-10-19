@@ -59,6 +59,9 @@ funfacts:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics'"
   funfact_item:
+  - icon: ''
+    name: Bakarr
+    count: "70"
   - name: Ayon
     count: "50"
   testimonial_slider:
