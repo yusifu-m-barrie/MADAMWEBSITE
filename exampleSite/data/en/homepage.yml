@@ -60,6 +60,9 @@ funfacts:
     right at the coast of the Semantics'"
   funfact_item:
   - icon: ''
+    name: Weezzy
+    count: "100"
+  - icon: ''
     name: Bakarr
     count: "70"
   - name: Ayon
