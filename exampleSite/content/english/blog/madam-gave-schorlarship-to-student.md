@@ -4,7 +4,6 @@ bg_image = "/images/bakarr.jpg"
 categories = [""]
 date = 2020-10-19T00:00:00Z
 description = "MADAM gave schorlarship to student"
-draft = true
 image = "/images/pablo.jpg"
 tags = ["education"]
 title = "MADAM gave schorlarship to student"
