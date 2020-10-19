@@ -1,7 +1,6 @@
 +++
 bg_image = "/images/pablo.jpg"
 description = "SIlnorf has donated 100 schorlarship to the government of sierra leone, so as to strengthen their free education project."
-draft = true
 title = "SILNORF gave schorlarship to student"
 
 +++
