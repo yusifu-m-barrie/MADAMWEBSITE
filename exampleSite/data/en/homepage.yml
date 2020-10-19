@@ -58,7 +58,9 @@ funfacts:
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics'"
-  funfact_item: []
+  funfact_item:
+  - name: Ayon
+    count: "50"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
