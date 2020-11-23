@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/1.jpg"
-category = "Skill up Project"
+category = "THE SKILL UP PROJECT"
 description = "Background"
 image = "/images/1.jpg"
 title = "THE SKILL UP! PROGRAMME"
