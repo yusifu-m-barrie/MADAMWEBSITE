@@ -1,9 +1,9 @@
 +++
 bg_image = "/images/5.jpg"
-category = "Economic"
+category = "Project 5"
 description = "Background"
 image = "/images/6.jpg"
-title = "THE SKILL UP! PROGRAMME5"
+title = "PROJECT 5"
 [[information]]
 info = "Jannie Kelonsky"
 label = "Client"
