@@ -13,15 +13,13 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  description: Started as a community group and association in 1991 prior to the civil
+    strife in Sierra Leone, MADAM is one of the oldest and lead national NGO operating
+    in Northern Sierra Leone.  The primary motive of our organization is to assist
+    communities to transform and realize their development goals in close collaboration
+    and cooperation with other actors, including the Government of Sierra Leone, other
+    NGOs, private institutions and international partners.
+  content: ''
   image: images/wrapper-img.png
 portfolio:
   enable: true
