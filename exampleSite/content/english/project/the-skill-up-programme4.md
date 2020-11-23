@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/5.jpg"
-category = "Health"
+category = "Social engagement"
 description = "Background"
 image = "/images/6.jpg"
 title = "THE SKILL UP! PROGRAMME4"
