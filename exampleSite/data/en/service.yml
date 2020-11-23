@@ -52,5 +52,8 @@ service:
   - icon: ion-image
     name: 'Health: SDG 3 – Good Health and Well-being'
     content: Ensure Healthy Lives and Promote Well-Being for All at All Ages
+  - icon: ''
+    name: ''
+    content: ''
 cta:
   enable: true
