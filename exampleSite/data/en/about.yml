@@ -60,10 +60,5 @@ mission_vision:
       <b>Transparent and accountable</b> – own and explain our actions in an open manner to communities and partners.<br>
       <b>Commitment</b> – go the extra mile to work towards meeting the challenges in our communities and organization.<br>
       <b>Inclusiveness</b> – move along with all without any discrimination.
-  - name: 'Areas of Intervention:'
-    content: |
-      <b>Agriculture: SDG 2</b> – Zero Hunger; End Hunger, Achieve Food Security and Improved Nutrition and Promote Sustainable Agriculture.<br>
-      <b>Education: SDG 4</b> – Quality Education; Ensure Inclusive and Equitable Quality Education and Promote Lifelong Learning Opportunities for All.<br>
-      <b>Health: SDG 3</b> – Good Health and Well-being; Ensure Healthy Lives and Promote Well-Being for All at All Ages.<br>
 cta:
   enable: true
