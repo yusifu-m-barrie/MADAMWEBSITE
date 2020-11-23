@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/5.jpg"
-category = "Video"
+category = "Health"
 description = "Background"
 image = "/images/6.jpg"
 title = "THE SKILL UP! PROGRAMME3"
