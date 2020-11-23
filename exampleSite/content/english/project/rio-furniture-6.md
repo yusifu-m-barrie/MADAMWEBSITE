@@ -3,7 +3,7 @@ title: THE SKILL UP! PROGRAMME
 description: Background
 image: "/images/6.jpg"
 bg_image: "/images/5.jpg"
-category: Education
+category: Skill Up Project
 information:
 - label: Client
   info: Jannie Kelonsky
