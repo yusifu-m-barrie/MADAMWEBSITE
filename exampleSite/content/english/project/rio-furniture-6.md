@@ -1,8 +1,8 @@
 ---
 title: THE SKILL UP! PROGRAMME
 description: Background
-image: images/portfolio/work6.jpg
-bg_image: images/featue-bg.jpg
+image: "/images/6.jpg"
+bg_image: "/images/5.jpg"
 category: Video
 information:
 - label: Client
