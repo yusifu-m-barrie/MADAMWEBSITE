@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/5.jpg"
-category = "Health"
+category = "Economic"
 description = "Background"
 draft = true
 image = "/images/6.jpg"
