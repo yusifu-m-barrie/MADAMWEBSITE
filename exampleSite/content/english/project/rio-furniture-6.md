@@ -1,5 +1,5 @@
 ---
-title: THE SKILL UP! PROGRAMME
+title: PROJECT 3
 description: Background
 image: "/images/6.jpg"
 bg_image: "/images/5.jpg"
