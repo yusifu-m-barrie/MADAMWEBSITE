@@ -1,6 +1,6 @@
 ---
-title: PROJECT 3
-description: Background
+title: ''
+description: ''
 image: ''
 bg_image: ''
 category: Project 3
