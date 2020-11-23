@@ -47,13 +47,13 @@ testimonial:
 mission_vision:
   enable: true
   tabs:
-  - name: Vision
-    content: "“A strong organization, improved livelihoods for target groups, and
-      effective and efficient services delivery in Sierra Leone”"
   - name: Mission
     content: " “A leading and innovative national organization enabling communities
       to realize their development aspirations through inclusive partnership with
       private, public and NGOs for improved livelihoods in Sierra Leone”         "
+  - name: Vision
+    content: "“A strong organization, improved livelihoods for target groups, and
+      effective and efficient services delivery in Sierra Leone”"
   - name: Core Values
     content: |
       <b>Integrity</b> – showing honesty and respect for our people in operation communities.<br>
