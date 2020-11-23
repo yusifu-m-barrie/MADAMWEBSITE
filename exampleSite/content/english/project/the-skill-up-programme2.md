@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/1.jpg"
-category = "Agriculture"
+category = "Skill up Project"
 description = "Background"
 image = "/images/1.jpg"
 title = "MADAM – WHH meeting with the Bombali District Social Business Enterprise (SBE) group prior to the signing of the partnership MOU in Makeni city."
