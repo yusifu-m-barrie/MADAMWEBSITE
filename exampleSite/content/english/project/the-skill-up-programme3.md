@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/2.jpg"
-category = "Health"
+category = "Project 2"
 description = "Background"
 image = "/images/2.jpg"
 title = "MADAM – WHH meeting with the head of the National Youth Commission (NAYCOM) at his National Stadium office in Freetown"
