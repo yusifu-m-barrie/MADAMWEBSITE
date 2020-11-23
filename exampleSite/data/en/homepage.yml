@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image: "/images/6.jpg"
   bg_overlay: true
   title: 'MANKIND’S ACTIVITIES FOR DEVELOPMENT ACCREDITATION MOVEMENT '
