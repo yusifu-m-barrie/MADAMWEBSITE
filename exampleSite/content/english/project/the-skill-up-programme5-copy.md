@@ -1,9 +1,9 @@
 +++
 bg_image = ""
 category = "Project 4"
-description = "Background"
+description = ""
 image = ""
-title = "PROJECT 4"
+title = ""
 [[information]]
 info = "Jannie Kelonsky"
 label = "Client"
