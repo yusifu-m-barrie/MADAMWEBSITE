@@ -1,51 +1,40 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
-draft: false
-image : "images/portfolio/work6.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "Video"
+title: THE SKILL UP! PROGRAMME
+description: Background
+image: images/portfolio/work6.jpg
+bg_image: images/featue-bg.jpg
+category: Video
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+- label: Client
+  info: Jannie Kelonsky
+- label: What We Did
+  info: Website Redesign
+- label: Tools Used
+  info: Photoshop,Illustrator
+- label: Completed on
+  info: 17th March 2014
+- label: Skills
+  info: HTML5 / PHP / CSS3
+- label: Client
+  info: Jannie Kelonsky
+
 ---
+## THE SKILL UP! PROGRAMME
 
-## Behance Website Redesign
+The Skill Up! programme is funded by BMZ (the German Federal Ministry for Economic Cooperation and Development) and is a skill development programme aimed at addressing the growing problem of youth unemployment through focusing on skill-based training as well as job linkages. The Skill Up! programme aims at the implementation of the Skill Up! approach to enhance the quality and relevance of (non-formal) technical and vocational education and training (TVET) at multiple political levels by strengthening local partner organizations and networking at macro level. As a result, the living conditions (livelihood) and prospects of young, vulnerable people in African and Asian countries have been sustainably improved through the provision of job-related skills and the strengthening of entrepreneurship. The objective is to improve the employability and entrepreneurial ability of vulnerable young people to boost their chances of earning a decent income and improving their quality of life and that of their families. The Skill Up! programme encompasses eight (8) countries: four in Africa; Kenya, Malawi, Sierra Leone, Uganda and another four countries in Asia; Afghanistan, India, Nepal and Tajikistan with expected project duration from 2019 –2023.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+In Sierra Leone, the title of the project is: **“Skill Up! Strengthening skills development, creating future perspectives: Sierra Leone”**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+The overall goal of the project in Serra Leone is: **Improved living conditions (livelihood) of young men and women in Sierra Leone through the establishment of non-formal TVET (Technical Vocational Education and Training) structures.**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+The project has a target of 3,000 vulnerable young men and women living in rural and peri-urban areas in Sierra Leone with a thirty-four-month life cycle
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+The operational areas of the project in the country include: Bombali & Karene Districts (North), Bo District (South), Kenema District (East), Western Area Rural and Urban (West) and Port Loko.
+
+Man power development in developing countries including Sierra Leone mostly targets the formal sector with the ultimate aim of catering for white-collared jobs. The non-formal sector, whose constituents are in the majority and mostly live in rural and peri-urban areas is often neglected, ignored or not accorded the attention or importance it deserves. Ironically however, this is the sector that has the potential to contribute immensely to job creation and overall economic growth.
+
+In Sierra Leone, the Skill Up! project has come as an avenue to bridge the gap between formal education and the non-formal TVET, creating training opportunities for young men and women in the non-formal sector with the aim of empowering them with marketable skills for small and medium enterprise development
+
+The first/pilot phase of the project ended officially in September 2020 and the second phase commenced thereafter with greater coverage and involvement in terms of participants.
+
+With barely four months of its taking off, enough ground has already been covered in the following areas: recruitment of all project staff, acquisition of project logistics, signing of MOUs with implementing partner organizations, establishment of collaboration and cooperation pacts with government Ministries, Departments and Agencies (to give accreditation to the project’s activities) and Associate Partner Institutions (APIs) and setting the framework for full implementation of the project.
