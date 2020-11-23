@@ -61,4 +61,7 @@ mission_vision:
       <b>Commitment</b> – go the extra mile to work towards meeting the challenges in our communities and organization.<br>
       <b>Inclusiveness</b> – move along with all without any discrimination.
 cta:
-  enable: false
+  enable: true
+  title: Our Vision
+  content: A strong organization, improved livelihoods for target groups, and effective
+    and efficient services delivery in Sierra Leone
