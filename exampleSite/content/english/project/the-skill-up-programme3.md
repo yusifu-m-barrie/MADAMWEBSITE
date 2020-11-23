@@ -1,9 +1,9 @@
 +++
-bg_image = "/images/5.jpg"
+bg_image = "/images/2.jpg"
 category = "Health"
 description = "Background"
-image = "/images/6.jpg"
-title = "THE SKILL UP! PROGRAMME3"
+image = "/images/2.jpg"
+title = "MADAM – WHH meeting with the head of the National Youth Commission (NAYCOM) at his National Stadium office in Freetown"
 [[information]]
 info = "Jannie Kelonsky"
 label = "Client"
