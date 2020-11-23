@@ -47,11 +47,6 @@ testimonial:
 mission_vision:
   enable: true
   tabs:
-  - name: 'Areas of Intervention:'
-    content: |
-      <b>Agriculture: SDG 2</b> – Zero Hunger; End Hunger, Achieve Food Security and Improved Nutrition and Promote Sustainable Agriculture.<br>
-      <b>Education: SDG 4</b> – Quality Education; Ensure Inclusive and Equitable Quality Education and Promote Lifelong Learning Opportunities for All.<br>
-      <b>Health: SDG 3</b> – Good Health and Well-being; Ensure Healthy Lives and Promote Well-Being for All at All Ages.<br>
   - name: Vision
     content: "“A strong organization, improved livelihoods for target groups, and
       effective and efficient services delivery in Sierra Leone”"
@@ -61,9 +56,14 @@ mission_vision:
       private, public and NGOs for improved livelihoods in Sierra Leone”         "
   - name: Core Values
     content: |
-      Integrity – showing honesty and respect for our people in operation communities.<br>
-      Transparent and accountable – own and explain our actions in an open manner to communities and partners.<br>
-      Commitment – go the extra mile to work towards meeting the challenges in our communities and organization.<br>
-      Inclusiveness – move along with all without any discrimination.
+      <b>Integrity</b> – showing honesty and respect for our people in operation communities.<br>
+      <b>Transparent and accountable</b> – own and explain our actions in an open manner to communities and partners.<br>
+      <b>Commitment</b> – go the extra mile to work towards meeting the challenges in our communities and organization.<br>
+      <b>Inclusiveness</b> – move along with all without any discrimination.
+  - name: 'Areas of Intervention:'
+    content: |
+      <b>Agriculture: SDG 2</b> – Zero Hunger; End Hunger, Achieve Food Security and Improved Nutrition and Promote Sustainable Agriculture.<br>
+      <b>Education: SDG 4</b> – Quality Education; Ensure Inclusive and Equitable Quality Education and Promote Lifelong Learning Opportunities for All.<br>
+      <b>Health: SDG 3</b> – Good Health and Well-being; Ensure Healthy Lives and Promote Well-Being for All at All Ages.<br>
 cta:
   enable: true
