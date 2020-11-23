@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/6.jpg"
+  bg_image: ''
   bg_overlay: true
   title: 'MANKIND’S ACTIVITIES FOR DEVELOPMENT ACCREDITATION MOVEMENT '
   content: We love the Web and the work we do.We work closely with our clients to
