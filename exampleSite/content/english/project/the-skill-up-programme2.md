@@ -1,5 +1,5 @@
 +++
-bg_image = "/images/5.jpg"
+bg_image = "/images/1.jpg"
 category = "Agriculture"
 description = "Background"
 image = "/images/1.jpg"
