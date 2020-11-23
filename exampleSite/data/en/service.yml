@@ -43,9 +43,9 @@ service:
     content: End Hunger, Achieve Food Security and Improved Nutrition and Promote
       Sustainable Agriculture
   - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: 'Education: SDG 4 – Quality Education'
+    content: "; Ensure Inclusive and Equitable Quality Education and Promote Lifelong
+      Learning Opportunities for Al"
   - icon: ion-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
