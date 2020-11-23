@@ -56,9 +56,9 @@ mission_vision:
       private, public and NGOs for improved livelihoods in Sierra Leone”         "
   - name: Core Values
     content: |
-      Integrity – showing honesty and respect for our people in operation communities.
-      Transparent and accountable – own and explain our actions in an open manner to communities and partners.
-      Commitment – go the extra mile to work towards meeting the challenges in our communities and organization.
+      Integrity – showing honesty and respect for our people in operation communities.<br>
+      Transparent and accountable – own and explain our actions in an open manner to communities and partners.<br>
+      Commitment – go the extra mile to work towards meeting the challenges in our communities and organization.<br>
       Inclusiveness – move along with all without any discrimination.
 cta:
   enable: true
