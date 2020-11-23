@@ -2,8 +2,8 @@
 bg_image = "/images/5.jpg"
 category = "Agriculture"
 description = "Background"
-image = "/images/6.jpg"
-title = "THE SKILL UP! PROGRAMME2"
+image = "/images/1.jpg"
+title = "MADAM – WHH meeting with the Bombali District Social Business Enterprise (SBE) group prior to the signing of the partnership MOU in Makeni city."
 [[information]]
 info = "Jannie Kelonsky"
 label = "Client"
