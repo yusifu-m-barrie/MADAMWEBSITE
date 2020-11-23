@@ -2,7 +2,6 @@
 bg_image = "/images/5.jpg"
 category = "Video"
 description = "Background"
-draft = true
 image = "/images/6.jpg"
 title = "THE SKILL UP! PROGRAMME2"
 [[information]]
