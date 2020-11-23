@@ -44,8 +44,8 @@ service:
       Sustainable Agriculture
   - icon: ion-compass
     name: 'Education: SDG 4 – Quality Education'
-    content: "; Ensure Inclusive and Equitable Quality Education and Promote Lifelong
-      Learning Opportunities for Al"
+    content: Ensure Inclusive and Equitable Quality Education and Promote Lifelong
+      Learning Opportunities for Al
   - icon: ion-image
     name: 'Health: SDG 3 – Good Health and Well-being'
     content: Ensure Healthy Lives and Promote Well-Being for All at All Ages
