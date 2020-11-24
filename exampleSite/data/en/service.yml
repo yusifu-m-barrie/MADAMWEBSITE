@@ -21,11 +21,11 @@ featured_service:
     color: primary
     content: End Hunger, Achieve Food Security and Improved Nutrition and Promote
       Sustainable Agriculture.
-  - name: Product Branding
+  - name: 'Education: SDG 4 – Quality Education'
     icon: ion-leaf
     color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Ensure Inclusive and Equitable Quality Education and Promote Lifelong
+      Learning Opportunities for All.
   - name: Game Development
     icon: ion-lightbulb
     color: primary-darker
