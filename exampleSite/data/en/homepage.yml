@@ -40,10 +40,10 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Mission
+  content: A leading and innovative national organization enabling communities to
+    realize their development aspirations through inclusive partnership with private,
+    public and NGOs for improved livelihoods in Sierra Leone.
   button:
     enable: true
     label: Tell Us Your Story
