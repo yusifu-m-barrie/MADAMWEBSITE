@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "MADAM SIERRA LEONE"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; MADAM 2020 - Designed By: [LINK Corporation](https://linkcorp-sl.com) All Rights Reserved"
+copyright = "Copyright &copy; MADAM 2020 - Designed By: [LINK Corporation Limited S/L](https://linkcorp-sl.com) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
