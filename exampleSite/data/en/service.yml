@@ -42,7 +42,7 @@ service:
     name: 'Agriculture: SDG 2 – Zero Hunger'
     content: End Hunger, Achieve Food Security and Improved Nutrition and Promote
       Sustainable Agriculture
-  - icon: ion-compass
+  - icon: ion-briefcase
     name: 'Education: SDG 4 – Quality Education'
     content: Ensure Inclusive and Equitable Quality Education and Promote Lifelong
       Learning Opportunities for Al
