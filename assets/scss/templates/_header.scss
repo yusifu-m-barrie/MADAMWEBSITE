@@ -6,12 +6,13 @@ header{
 	background: #008000;
 	padding: 20px 0;
 	.navbar{
+		min-heaight: 120px;
 		margin-bottom: 0px;
 		border: 0px;
 	}
 	.navbar-brand {
 		padding-top: 5px;
-		min-heaight: 120px;
+		
 	}
 	.navbar-default{
 		background: none;
