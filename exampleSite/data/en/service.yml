@@ -38,7 +38,7 @@ service:
   - icon: ion-image
     name: ''
     content: ''
-  - icon: ion-clock
+  - icon: ion-leaf
     name: 'Agriculture: SDG 2 – Zero Hunger'
     content: End Hunger, Achieve Food Security and Improved Nutrition and Promote
       Sustainable Agriculture
