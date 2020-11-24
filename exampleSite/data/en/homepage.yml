@@ -36,7 +36,7 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: false
+  enable: true
   service_item: []
 cta:
   enable: true
