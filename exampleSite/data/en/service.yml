@@ -36,8 +36,8 @@ service:
   title: Areas of Intervention
   description: ''
   service_item:
-  - icon: ''
-    name: ''
+  - icon: ion-
+    name: ".."
     content: ''
   - icon: ion-clock
     name: 'Agriculture: SDG 2 – Zero Hunger'
