@@ -118,7 +118,7 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = false
 [outputs]
 home = ["HTML"]
 [params]
