@@ -4,7 +4,6 @@
 
 header{
 	background: #008000;
-	min-heaight: 120px;
 	padding: 20px 0;
 	.navbar{
 		margin-bottom: 0px;
@@ -12,7 +11,7 @@ header{
 	}
 	.navbar-brand {
 		padding-top: 5px;
-		padding-buttom: 15px;
+		min-heaight: 120px;
 	}
 	.navbar-default{
 		background: none;
