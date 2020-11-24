@@ -32,6 +32,10 @@ fields:
     label: info
 pages:
 - exampleSite/content/english/project/Project1.md
+- exampleSite/content/english/project/Project1.md
+- exampleSite/content/english/project/project2.md
 - exampleSite/content/english/project/project2.md
 - exampleSite/content/english/project/project3.md
+- exampleSite/content/english/project/project3.md
+- exampleSite/content/english/project/project4.md
 - exampleSite/content/english/project/project4.md
