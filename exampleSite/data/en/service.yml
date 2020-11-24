@@ -17,7 +17,7 @@ featured_service:
   enable: true
   service_item:
   - name: 'Agriculture: SDG 2 – Zero Hunger'
-    icon: la-cut
+    icon: ion-aperture
     color: primary
     content: End Hunger, Achieve Food Security and Improved Nutrition and Promote
       Sustainable Agriculture.
