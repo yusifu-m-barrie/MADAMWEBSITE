@@ -31,7 +31,7 @@ featured_service:
     color: primary-darker
     content: Ensure Healthy Lives and Promote Well-Being for All at All Ages.
 service:
-  enable: true
+  enable: false
   title: Areas of Intervention
   description: ''
   service_item:
