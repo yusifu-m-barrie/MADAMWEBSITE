@@ -4,6 +4,6 @@ category = "project2"
 description = ""
 image = ""
 information = []
-title = "Project2"
+title = ""
 
 +++
