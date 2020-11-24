@@ -16,11 +16,11 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Interface Design
+  - name: 'Agriculture: SDG 2 – Zero Hunger'
     icon: ion-erlenmeyer-flask
     color: primary
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: End Hunger, Achieve Food Security and Improved Nutrition and Promote
+      Sustainable Agriculture.
   - name: Product Branding
     icon: ion-leaf
     color: primary-dark
