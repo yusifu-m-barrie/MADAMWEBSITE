@@ -46,7 +46,7 @@ cta:
     public and NGOs for improved livelihoods in Sierra Leone.
   button:
     enable: true
-    label: Cantact Us
+    label: Tell Us Your Story
     link: contact
 funfacts:
   enable: false
