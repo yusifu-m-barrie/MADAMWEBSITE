@@ -41,10 +41,9 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: Mission
-  content: A leading and innovative national organization enabling communities to
-    realize their development aspirations through inclusive partnership with private,
-    public and NGOs for improved livelihoods in Sierra Leone.
+  title: Our Vision
+  content: A strong organization, improved livelihoods for target groups, and effective
+    and efficient services delivery in Sierra Leone.
   button:
     enable: true
     label: Tell Us Your Story
