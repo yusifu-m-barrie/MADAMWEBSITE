@@ -123,7 +123,7 @@ unsafe = true
 home = ["HTML"]
 [params]
 author = "Link Corporation SL"
-contact_form_action = "#"
+contact_form_action = ""
 description = "This is meta description"
 email = "demo@email.com"
 google_analitycs_id = ""
