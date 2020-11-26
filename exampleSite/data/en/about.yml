@@ -24,7 +24,7 @@ features:
   - icon: ''
     name: Care International S/L
     content: ''
-  - icon: ''
+  - icon: "/images/bftw.ico"
     name: Brot
     content: fur dier Welt
   - icon: ''
