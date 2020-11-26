@@ -31,7 +31,7 @@ features:
     name: Bread for the World (BftW)
     content: ''
 testimonial:
-  enable: true
+  enable: false
 mission_vision:
   enable: true
   tabs:
