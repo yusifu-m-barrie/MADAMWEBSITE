@@ -24,7 +24,7 @@ featured_service:
       Sustainable Agriculture.
   - name: 'Health: SDG 3–Good Health & Wellbeing'
     image: "/images/3.png"
-    color: primary-darker
+    color: health
     content: Ensure Healthy Lives and Promote Well-Being for All at All Ages.
   - name: 'Education: SDG 4 – Quality Education'
     image: "/images/4.png"
