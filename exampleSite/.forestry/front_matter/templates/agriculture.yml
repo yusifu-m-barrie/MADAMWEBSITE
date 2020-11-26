@@ -1,0 +1,29 @@
+---
+label: Agriculture
+hide_body: false
+fields:
+- type: file
+  name: bg_image
+  label: bg_image
+- type: text
+  name: category
+  label: category
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: information
+  label: information
+  fields:
+  - type: text
+    name: info
+    label: info
+  - type: text
+    name: label
+    label: label
