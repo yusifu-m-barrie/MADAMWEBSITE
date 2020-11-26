@@ -16,3 +16,4 @@ fields:
   description: page header background image
 pages:
 - exampleSite/content/english/blog/silnorf-gave-schorlarship-to-student.md
+- exampleSite/content/english/pages/agriculture.md
