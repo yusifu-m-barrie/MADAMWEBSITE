@@ -17,7 +17,7 @@ about:
   image: "/images/mix.jpg"
   funfacts: []
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: 'Agriculture: SDG 2 – Zero Hunger'
     image: ''
