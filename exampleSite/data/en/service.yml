@@ -3,7 +3,7 @@ about:
   enable: true
   title: ''
   content: |
-    <h2 class="agriculture"><a href="#">Agriculture: SDG 2 – Zero Hunger</a></h2>
+    <h2 class="agriculture"><a href="agriculture-sdg-2-zero-hunger">Agriculture: SDG 2 – Zero Hunger</a></h2>
     End Hunger, Achieve Food Security and Improved Nutrition and Promote Sustainable Agriculture.
 
     <h2  color=class="health"><a href="#"> Health: SDG 3–Good Health & Wellbeing</a></h2>
