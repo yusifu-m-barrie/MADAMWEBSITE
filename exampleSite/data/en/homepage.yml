@@ -40,10 +40,9 @@ service:
   service_item: []
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
-  title: Our Vision
-  content: A strong organization, improved livelihoods for target groups, and effective
-    and efficient services delivery in Sierra Leone.
+  bg_image: "/images/madam.jpg"
+  title: Our Partners & Donors
+  content: ''
   button:
     enable: true
     label: Tell Us Your Story
