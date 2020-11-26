@@ -24,10 +24,9 @@ features:
   - icon: ''
     name: care
     content: ''
-  - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ''
+    name: Brot
+    content: fur dier Welt
   - icon: ion-ios-mic-outline
     name: Animation and Editing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
