@@ -124,13 +124,13 @@ home = ["HTML"]
 [params]
 author = "Link Corporation SL"
 contact_form_action = ""
-description = "This is meta description"
-email = "demo@email.com"
+description = "CONTACT US HERE"
+email = "madam@madam-sl.org"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "250 Magburaka Highway Makambo - Makeni   P.O Box: 5, Makeni, Sierra Leone"
 logo = "/images/picture4.png"
 logo_width = "90px"
-mobile = "0124857985320"
+mobile = "+23276687091"
 multi_author = false
 [params.cookies]
 enable = true
@@ -171,20 +171,8 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-twitter-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-facebook-outline"
-link = "#"
+link = "www.facebook.com/MADAM Sierra Leone"
