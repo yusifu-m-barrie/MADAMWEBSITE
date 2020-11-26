@@ -17,8 +17,9 @@ featured_service:
   - name: 'Agriculture: SDG 2 – Zero Hunger'
     image: ''
     color: "#f2ca00"
-    content: End Hunger, Achieve Food Security and Improved Nutrition and Promote
-      Sustainable Agriculture.
+    content: |-
+      End Hunger, Achieve Food Security and Improved Nutrition and Promote Sustainable Agriculture.
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   - name: 'Health: SDG 3–Good Health & Wellbeing'
     image: "/images/3.png"
     color: "#116b25"
