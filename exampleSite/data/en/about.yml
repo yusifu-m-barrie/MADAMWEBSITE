@@ -15,7 +15,7 @@ about:
     link: "#"
   funfacts: []
 features:
-  enable: true
+  enable: false
   title: OUR PARTNERS AND DONORS
   feature_item:
   - icon: ion-flag
