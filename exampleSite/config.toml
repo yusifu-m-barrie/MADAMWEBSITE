@@ -171,8 +171,8 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-facebook-outline"
 link = "www.facebook.com/MADAM Sierra Leone"
+[[params.social]]
+icon = "ion-social-twitter-outline"
+link = "www.twitter.com/@madam_sl"
