@@ -19,7 +19,7 @@ featured_service:
   service_item:
   - name: 'Agriculture: SDG 2 – Zero Hunger'
     image: "/images/hunger.png"
-    color: yellow
+    color: hunger-color
     content: End Hunger, Achieve Food Security and Improved Nutrition and Promote
       Sustainable Agriculture.
   - name: 'Health: SDG 3–Good Health & Wellbeing'
