@@ -26,7 +26,7 @@
 
 .dark-service {
   .title {
-    color: $light;
+    color: $education;
   }
 
   .service-item {
@@ -39,7 +39,7 @@
     }
 
     h4 {
-      color: $light;
+      color: $education;
       padding-top: 15px;
       margin: 0;
       font-weight: 500;
@@ -72,7 +72,7 @@
     }
 
     p {
-      color: $light;
+      color: $health;
     }
   }
 }
@@ -84,6 +84,6 @@
   .block {
     padding: 30px;
     margin-bottom: 20px;
-    background: $light;
+    background: $hunger;
   }
 }
