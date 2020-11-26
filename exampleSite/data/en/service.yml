@@ -2,15 +2,13 @@
 about:
   enable: true
   title: Creative UX/UI Design Agency
-  content: "<h2>Health</h2>\nLorem ipsum dolor sit amet, consectetur adipisicing elit.
-    Voluptate soluta corporis odit, optio cum! Accusantium numquam ab, natus excepturi
-    architecto earum ipsa aliquam, illum, omnis rerum, eveniet officia nihil. \n<h2>Health</h2>\nLorem
-    ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis
-    odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum ipsa
-    aliquam, illum, omnis rerum, eveniet officia nihil. \n<h2>Education</h2>\nLorem
-    ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis
-    odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum ipsa
-    aliquam, illum, omnis rerum, eveniet officia nihil. "
+  content: |-
+    <h2>Agriculture: SDG 2 – Zero Hunger</h2>
+    End Hunger, Achieve Food Security and Improved Nutrition and Promote Sustainable Agriculture.
+    <h2>Health: SDG 3–Good Health & Wellbeing</h2>
+    Ensure Healthy Lives and Promote Well-Being for All at All Ages.
+    <h2>Education: SDG 4 – Quality Education</h2>
+    Ensure Inclusive and Equitable Quality Education and Promote Lifelong Learning Opportunities for All.
   image: "/images/mix.jpg"
   funfacts: []
 featured_service:
