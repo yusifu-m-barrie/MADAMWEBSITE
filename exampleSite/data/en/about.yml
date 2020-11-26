@@ -18,7 +18,7 @@ features:
   enable: true
   title: OUR PARTNERS AND DONORS
   feature_item:
-  - icon: ''
+  - icon: ion-flag
     name: welt hunger hilfe
     content: ''
   - icon: ''
