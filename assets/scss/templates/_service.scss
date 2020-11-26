@@ -7,7 +7,7 @@
 
     i {
       font-size: 60px;
-      color: $light;
+      color: $primary-color;
     }
 
     h4 {
@@ -35,7 +35,7 @@
 
     i {
       font-size: 60px;
-      color: $primary-color;
+      color: $light;
     }
 
     h4 {
@@ -72,7 +72,7 @@
     }
 
     p {
-      color: $education;
+      color: $light;
     }
   }
 }
@@ -84,6 +84,6 @@
   .block {
     padding: 30px;
     margin-bottom: 20px;
-    background: $secondary-color;
+    background: $light;
   }
 }
