@@ -43,3 +43,25 @@ In Sierra Leone, the Skill Up! project has come as an avenue to bridge the gap b
 The first/pilot phase of the project ended officially in September 2020 and the second phase commenced thereafter with greater coverage and involvement in terms of participants.
 
 With barely four months of its taking off, enough ground has already been covered in the following areas: recruitment of all project staff, acquisition of project logistics, signing of MOUs with implementing partner organizations, establishment of collaboration and cooperation pacts with government Ministries, Departments and Agencies (to give accreditation to the project’s activities) and Associate Partner Institutions (APIs) and setting the framework for full implementation of the project.
+
+The Skill Up! programme is an approach aimed at enhancing the quality and relevance of (non-formal) Technical and Vocational Education and Training (TVET) at multiple levels by strengthening local partner organizations and networking at macro level.
+
+The Skill Up! programme encompasses eight (8) countries: four in Africa; Kenya, Malawi, Sierra Leone, Uganda and another four countries in Asia; Afghanistan, India, Nepal and Tajikistan with expected project duration from 2019 –2023.
+
+ü The overall goal of the project in Serra Leone is: Improved living conditions (livelihood) of young men and women in Sierra Leone through the establishment of non-formal TVET (Technical Vocational Education and Training) structures
+
+ü Skill Up! is implemented in 7(seven) districts in Sierra Leone
+
+o Bombali
+
+o Karene
+
+o Port Loko
+
+o Western Urban
+
+o Western Rural
+
+o Bo
+
+o Kenema
