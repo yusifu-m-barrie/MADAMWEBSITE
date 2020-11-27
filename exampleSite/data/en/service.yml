@@ -11,10 +11,10 @@ about:
 
     <a href="#" style="color: Crimson;"><h2> Education: SDG 4 – Quality Education</h2></a>
     Ensure Inclusive and Equitable Quality Education and Promote Lifelong Learning Opportunities for All.
-    
+
     <a href="#" style="color:  #C70039;"><h2> Economic: SDG 8 – Decent Work and Economic Growth; </h2></a>
     Ensure Inclusive and Equitable Quality Education and Promote Lifelong Learning Opportunities for All.
-  image: "/images/mix.jpg"
+  image: "/images/sdgs.jpg"
   funfacts: []
 featured_service:
   enable: false
