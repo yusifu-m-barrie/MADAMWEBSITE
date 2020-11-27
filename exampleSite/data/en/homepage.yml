@@ -27,10 +27,10 @@ portfolio:
   bg_image: "/images/feature2.jpg"
   title: '<p style="color: green;">Our Core Values</p>'
   content: |
-    <b>Integrity</b> – showing honesty and respect for our people in operation communities<br>
-    <b>Transparent and accountable</b> – own and explain our actions in an open manner to communities and partners<br>
-    <b>Commitment</b> – go the extra mile to work towards meeting the challenges in our communities and organization<br>
-    <b>Inclusiveness</b> – move along with all without any discrimination
+    <b style="color: white;">Integrity</b> – showing honesty and respect for our people in operation communities<br>
+    <b style="color: white;">Transparent and accountable</b> – own and explain our actions in an open manner to communities and partners<br>
+    <b style="color: white;">Commitment</b> – go the extra mile to work towards meeting the challenges in our communities and organization<br>
+    <b style="color: white;">Inclusiveness</b> – move along with all without any discrimination
   button:
     enable: false
     label: View Works
