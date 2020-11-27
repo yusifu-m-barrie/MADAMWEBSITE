@@ -6,10 +6,10 @@ about:
     <a href="#" style="color: #FFC300;" ><h2>Agriculture: SDG 2 – Zero Hunger</h2></a>
     End Hunger, Achieve Food Security and Improved Nutrition and Promote Sustainable Agriculture.
 
-    <h2  style="color: MediumSeaGreen; ><a href="#"> Health: SDG 3–Good Health & Wellbeing</a></h2>
+    <a href="#" style="color: MediumSeaGreen;"><h2> Health: SDG 3–Good Health & Wellbeing</h2></a>
     Ensure Healthy Lives and Promote Well-Being for All at All Ages.
 
-    <h2 style="color: Crimson; ><a href="#"> Education: SDG 4 – Quality Education</a></h2>
+    <a href="#" style="color: Crimson;"><h2> Education: SDG 4 – Quality Education</h2></a>
     Ensure Inclusive and Equitable Quality Education and Promote Lifelong Learning Opportunities for All.
   image: "/images/mix.jpg"
   funfacts: []
