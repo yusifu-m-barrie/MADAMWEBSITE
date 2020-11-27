@@ -3,13 +3,13 @@ about:
   enable: true
   title: ''
   content: |
-    <h2 style="color:  #FFC300" ><a href="#">Agriculture: SDG 2 – Zero Hunger</a></h2>
+    <h2 style="color:  #FFC300; ><a href="#">Agriculture: SDG 2 – Zero Hunger</a></h2>
     End Hunger, Achieve Food Security and Improved Nutrition and Promote Sustainable Agriculture.
 
-    <h2  style="color: MediumSeaGreen"><a href="#"> Health: SDG 3–Good Health & Wellbeing</a></h2>
+    <h2  style="color: MediumSeaGreen;><a href="#"> Health: SDG 3–Good Health & Wellbeing</a></h2>
     Ensure Healthy Lives and Promote Well-Being for All at All Ages.
 
-    <h2 style="color: Crimson"><a href="#"> Education: SDG 4 – Quality Education</a></h2>
+    <h2 style="color: Crimson;><a href="#"> Education: SDG 4 – Quality Education</a></h2>
     Ensure Inclusive and Equitable Quality Education and Promote Lifelong Learning Opportunities for All.
   image: "/images/mix.jpg"
   funfacts: []
