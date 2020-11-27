@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "project3"
+category = "WIE – PHASE III"
 description = ""
 image = ""
 information = []
