@@ -40,7 +40,7 @@ service:
   service_item: []
 cta:
   enable: true
-  bg_image: "/images/partners.jpg"
+  bg_image: "/images/partners2.jpg"
   title: Our Partners & Donors
   content: ''
   button:
