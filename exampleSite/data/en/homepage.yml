@@ -24,7 +24,7 @@ about:
   image: "/images/2.jpg"
 portfolio:
   enable: true
-  bg_image: "/images/featue-bg.jpg"
+  bg_image: "/images/feature2.jpg"
   title: Our Core Values
   content: |
     <b>Integrity</b> – showing honesty and respect for our people in operation communities<br>
