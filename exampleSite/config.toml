@@ -130,8 +130,8 @@ google_analitycs_id = ""
 location = "250 Magburaka Highway Makambo - Makeni   P.O Box: 5, Makeni, Sierra Leone"
 logo = "/images/picture4.png"
 logo_width = "90px"
-mobile = "+232 76 687091"
-multi_author = false
+mobile = "+232 76 687091 /"
+multi_author = true
 [params.cookies]
 enable = true
 expire_days = 2
