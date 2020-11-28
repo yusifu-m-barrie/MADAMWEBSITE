@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "ECRHS Phase II "
+category = "ECRHS"
 description = ""
 image = ""
 information = []
