@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/11.jpg"
 category = "STEDY"
-description = "This project has three components combined to provide various Technical & Vocational Education Training (TVET) to youths. The Entrepreneurship Skills Training and Advocacy Components contributes to mitigating skills gap in the middle-level manpower to make youths with technical skills Job-creators and not Job-seekers. "
+description = "This project has three components combined to provide various Technical & Vocational Education Training (TVET) to youths."
 image = "/images/1.jpg"
 information = []
 title = "THE SKILLS TRAINING AND ENTERPRISE DEVELOPMENT FOR YOUTHS (STEDY) "
