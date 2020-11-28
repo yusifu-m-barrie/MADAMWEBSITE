@@ -122,7 +122,7 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Link Corporation SL"
+author = "Link Corporation Limited SL"
 contact_form_action = ""
 description = "CONTACT US HERE"
 email = "madam@madam-sl.org"
