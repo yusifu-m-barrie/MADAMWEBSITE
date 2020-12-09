@@ -1,8 +1,8 @@
 +++
-bg_image = "/images/11.jpg"
+bg_image = "/images/222.png"
 category = "STEDY"
 description = "This project has three components combined to provide various Technical & Vocational Education Training (TVET) to youths."
-image = "/images/1.jpg"
+image = "/images/1222.png"
 information = []
 title = "THE SKILLS TRAINING AND ENTERPRISE DEVELOPMENT FOR YOUTHS (STEDY) "
 
