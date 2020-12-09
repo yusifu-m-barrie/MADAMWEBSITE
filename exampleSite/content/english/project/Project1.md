@@ -1,8 +1,8 @@
 +++
-bg_image = "/images/14.jpg"
+bg_image = "/images/scale2.png"
 category = "Scale"
 description = "This Project contributes to the increase in income and improvement in nutrition of beneficiary farmers."
-image = "/images/13.jpg"
+image = "/images/scale.png"
 information = []
 title = "The Sustainable Community Agriculture & Livelihood Expansion (SCALE) "
 
