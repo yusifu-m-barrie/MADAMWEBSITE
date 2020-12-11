@@ -2,7 +2,7 @@
 bg_image = "/images/1.jpg"
 category = "SKILL - UP"
 description = "Background"
-image = "/images/1.jpg"
+image = "/images/44444.png"
 information = []
 title = "THE SKILL UP! PROGRAMME"
 
