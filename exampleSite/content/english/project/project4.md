@@ -1,8 +1,8 @@
 +++
-bg_image = "/images/11.jpg"
+bg_image = "/images/ecrh.jpg"
 category = "ECRHS"
 description = "This deals with Epidemics"
-image = "/images/1.jpg"
+image = "/images/echrs2.jpg"
 information = []
 title = "Epidemic Control and Reinforcement of Health Services (ECRHS) Phase II "
 
