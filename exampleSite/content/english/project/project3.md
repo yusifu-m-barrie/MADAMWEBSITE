@@ -13,10 +13,10 @@ CARE Sierra Leone with funding from CARE Nederland through H & M Foundation is i
 
 This third phase has four strategic axes:
 
-ü Incentivize and facilitate increased institutional and community uptake of women’s entrepreneurship model in Sierra Leone
+ Incentivize and facilitate increased institutional and community uptake of women’s entrepreneurship model in Sierra Leone
 
-ü Enhance sustainable access to market information for women in Bombali and Tonkolili districts
+ Enhance sustainable access to market information for women in Bombali and Tonkolili districts
 
-ü Increase offer for customized financial services for women entrepreneurs by financial service provider
+ Increase offer for customized financial services for women entrepreneurs by financial service provider
 
-ü Enhance networking between VSLA groups to drive women-led advocacy for improved enabling environment for women entrepreneurship
+Enhance networking between VSLA groups to drive women-led advocacy for improved enabling environment for women entrepreneurship
