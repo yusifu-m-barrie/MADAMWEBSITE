@@ -13,14 +13,14 @@ Technical and Vocational Training is only a means and not an end to job creation
 
 Conducts Vocational & Entrepreneurship Skills Training In:
 
-ü Hotel Management
+<li>Hotel Management</li>
 
-ü Welding
+<li>Welding</li>
 
-ü Auto Mechanics
+<li>Auto Mechanics</li>
 
-ü Electricals & Solar Installation
+<li>Electricals & Solar Installation</li>
 
-ü Agric Survey
+<li>Agric Survey</li>
 
-ü Entrepreneurship
+<li>Entrepreneurship</li>
