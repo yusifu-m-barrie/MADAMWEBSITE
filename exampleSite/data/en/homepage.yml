@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: "/images/office.jpg"
-  bg_overlay: true
+  bg_overlay: false
   title: 'MANKIND’S ACTIVITIES FOR DEVELOPMENT ACCREDITATION MOVEMENT '
   content: A leading and innovative national organization enabling communities to
     realize their development aspirations through inclusive partnership with private,
