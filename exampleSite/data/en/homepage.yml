@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: "/images/office.jpg"
   bg_overlay: false
-  title: 'MANKIND’S ACTIVITIES FOR DEVELOPMENT ACCREDITATION MOVEMENT '
+  title: <p color="green">MANKIND’S ACTIVITIES FOR DEVELOPMENT ACCREDITATION MOVEMENT<p>
   content: A leading and innovative national organization enabling communities to
     realize their development aspirations through inclusive partnership with private,
     public and NGOs for improved livelihoods in Sierra Leone
