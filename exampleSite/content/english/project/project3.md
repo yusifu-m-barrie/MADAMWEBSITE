@@ -1,8 +1,8 @@
 +++
-bg_image = "/images/11.jpg"
+bg_image = "/images/wie2.jpg"
 category = "WIE "
 description = "This project deals with women"
-image = "/images/1.jpg"
+image = "/images/wie.png"
 information = []
 title = "WOMEN IN ENTERPRISE PROJECT (WIE) – PHASE "
 
