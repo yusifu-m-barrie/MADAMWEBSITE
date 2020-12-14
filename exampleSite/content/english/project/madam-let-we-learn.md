@@ -2,7 +2,6 @@
 bg_image = "/images/1mg18.jpeg"
 category = "nafara"
 description = "help the poor"
-draft = true
 image = "/images/win_20201211_093558.JPG"
 title = "madam let we learn"
 [[information]]
