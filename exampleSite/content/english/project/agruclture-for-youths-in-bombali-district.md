@@ -2,7 +2,6 @@
 bg_image = "/images/img22.jpeg"
 category = "agric"
 description = "This project is for youths in Bombali District Only"
-draft = true
 image = "/images/1mg18.jpeg"
 title = "Agruclture for Youths in Bombali District"
 [[information]]
