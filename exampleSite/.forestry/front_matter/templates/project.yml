@@ -31,6 +31,7 @@ fields:
     name: info
     label: info
 pages:
+- exampleSite/content/english/project/Agric.md
 - exampleSite/content/english/project/Project1.md
 - exampleSite/content/english/project/Project1.md
 - exampleSite/content/english/project/project2.md
