@@ -3,7 +3,7 @@ bg_image = ""
 category = ""
 description = "le we learn"
 draft = true
-image = ""
+image = "/images/8-1.jpg"
 information = []
 title = "hotcake"
 
